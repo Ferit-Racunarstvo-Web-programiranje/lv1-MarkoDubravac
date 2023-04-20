@@ -1,12 +1,14 @@
 # LV 1 zadatak - Osobna stranica
 
-### LINK: 
+### LINK:
+
+https://relaxed-cactus-9f70af.netlify.app/
 
 <hr />
 
 ## Opis zadatka
 
-Izradite vlastitu osobnu web stranicu prema primjeru dizajna početne stranice na desktop rezoluciji. Potrebno je izrezati navedeni dizajn u HTML-u i CSS-u. Dizajn se nalazi na sljedećoj poveznici: [Link](https://www.figma.com/file/eAv1yU9fOTmlzZgpa3PKLv/Personal-portfolio-website-(Community)?node-id=0%3A1&t=ctrhGeQpF9UzoE0l-1)
+Izradite vlastitu osobnu web stranicu prema primjeru dizajna početne stranice na desktop rezoluciji. Potrebno je izrezati navedeni dizajn u HTML-u i CSS-u. Dizajn se nalazi na sljedećoj poveznici: [Link](<https://www.figma.com/file/eAv1yU9fOTmlzZgpa3PKLv/Personal-portfolio-website-(Community)?node-id=0%3A1&t=ctrhGeQpF9UzoE0l-1>)
 
 #### Potrebno je:
 
@@ -29,6 +31,7 @@ https://github.com/anandrmedia/heroku-free-alternatives
 - https://www.youtube.com/watch?v=hs_cXHkuHAM
 
 #### CSS - općenito
+
 - https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started
 - https://css-tricks.com/where-do-you-learn-html-css-in-2020/
 - Box model - https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model
@@ -36,11 +39,13 @@ https://github.com/anandrmedia/heroku-free-alternatives
 - Display - https://developer.mozilla.org/en-US/docs/Web/CSS/display
 
 #### CSS - responzivni web dizajn
+
 - https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design
 - https://kinsta.com/blog/responsive-web-design/
 - https://www.youtube.com/watch?v=p0bGHP-PXD4
 
 #### CSS - Grid i Flexbox
+
 - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
 - Grid - https://www.youtube.com/watch?v=0-DY8J_skZ0
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
